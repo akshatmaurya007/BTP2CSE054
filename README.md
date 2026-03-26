@@ -10,8 +10,8 @@
 | Name | Roll No |
 |------|---------|
 | Akshat Maurya | 2410030648 |
-| Ritik Jaiswal | U910030619 |
-| Priyanshu Singh | U910030667 |
+| Ritik Jaiswal | 2410030619 |
+| Priyanshu Singh | 24110030667 |
 | Vanshika Aggarwal | 2410030639 |
 | Ayush Patel | 2410030614 |
 
