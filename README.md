@@ -11,7 +11,7 @@
 |------|---------|
 | Akshat Maurya | 2410030648 |
 | Ritik Jaiswal | 2410030619 |
-| Priyanshu Singh | 24110030667 |
+| Priyanshu Singh | 2410030667 |
 | Vanshika Aggarwal | 2410030639 |
 | Ayush Patel | 2410030614 |
 
